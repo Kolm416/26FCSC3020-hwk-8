@@ -21,7 +21,7 @@ Submit your answers by updating this file, rewriting the provided templates.
 Context: "A job description can be created and a link must be provided for posting on platforms such as LinkedIn and similar" 
 
 ```
-As an HR staff member, I want to [perform some task] so that I can [achieve some goal]. Given that [some context], when [some action is carried out] then [a set of observable outcomes should occur]. 
+As an HR staff member, I want to create a job description and generate a shareable link so that I can advertise the vacancy on LinkedIn and other platforms. Given that I have entered the vacancy details, when I save the job description then, the system publishes the vacancy and provides a link I can copy and share.
 ```
 
 ## User Story #2
@@ -29,7 +29,7 @@ As an HR staff member, I want to [perform some task] so that I can [achieve some
 Context: "Candidates apply for a job by filling out a form and sending documents such as CVs and letters of recommendation, for example"
 
 ```
-As a candidate, I want to [perform some task] so that I can [achieve some goal]. Given that [some context], when [some action is carried out] then [a set of observable outcomes should occur]. 
+As a candidate, I want to complete an application form and upload supporting documents so that I can apply for a vacancy. Given that a vacancy is open, when I submit the completed form with my CV and any other required documents, then the system records my application and confirms that it was received.
 ```
 
 ## User Story #3
@@ -37,7 +37,7 @@ As a candidate, I want to [perform some task] so that I can [achieve some goal].
 Context: "A hiring committee evaluates all candidates for a position. The system should allow the hiring committee to discard candidates who do not meet the requirements. In these cases, an email should automatically be sent to the candidate saying that they are no longer being considered. The remaining candidates are interviewed and a decision is then made." 
 
 ```
-As a hiring committee member, I want to [perform some task] so that I can [achieve some goal]. Given that [some context], when [some action is carried out] then [a set of observable outcomes should occur]. 
+As a hiring committee member, I want to review and evaluate candidates, record interview outcomes, and make a hiring decision so that we can select a suitable candidate. Given that applications have been submitted for a vacancy, when the committee marks a candidate as not meeting the requirements, then the system updates their status and automatically emails them that they are no longer being considered. When a candidate meets the requirements, then the system allows the committee to record interview results and the final decision. 
 ```
 
 ## User Story #4
@@ -45,7 +45,7 @@ As a hiring committee member, I want to [perform some task] so that I can [achie
 Context: "Analytical reports can be obtained for any completed hiring process"
 
 ```
-As an HR staff member, I want to [perform some task] so that I can [achieve some goal]. Given that [some context], when [some action is carried out] then [a set of observable outcomes should occur]. 
+As an HR staff member, I want to generate an analytical report for a completed hiring process so that I can review its outcomes and evaluate the process. Given that a hiring process is complete, when I request its report, then the system displays or exports relevant information about the process, including candidate outcomes and the hiring decision.
 ```
 
 # Rubric
